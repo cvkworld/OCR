@@ -11,7 +11,7 @@ Scene text detection and recognition:
  
  # Some Testing Images:
  
-![alt text](https://github.com/cvkworld/OCR/blob/master/licence_plate1_test/test09.jpg)
+![alt text](licence_plate1_test/test09.jpg)
 
 
 ![alt text](https://github.com/cvkworld/OCR/blob/master/licence_plate1_test/test04.jpg)
