@@ -4,6 +4,7 @@ Scene text detection and recognition:
   Using EAST Technique to detect text in the wild and Tesseract to recognize text.
   1. In order to recognize text form image first we have to install Tesseract Binary for windows.
   2. For better result use Tesseract Version 4.
+  3. Don't forgot to download "Frozen_east_text_detection.pb" from internet 
   
   https://github.com/tesseract-ocr/tesseract/wiki/Downloads
   
